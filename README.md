@@ -35,9 +35,11 @@ http://localhost/your-folder-name
 📌 Make sure PHP and MySQL are installed and running.
 
 👨‍💻 Team Collaboration
+
 This project was developed as a team over the course of three months. I served as the team leader, coordinated all modules, and ensured successful submission ahead of the deadline.
 
 📥 Download & Use
+
 You can download and run this project locally for learning or demo purposes. Contributions and feedback are welcome!
 
 
