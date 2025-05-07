@@ -31,6 +31,7 @@ Import the SQL file into phpMyAdmin (if provided).
 Start your local server (Apache + MySQL) and open:
 
 http://localhost/your-folder-name
+
 📌 Make sure PHP and MySQL are installed and running.
 
 👨‍💻 Team Collaboration
